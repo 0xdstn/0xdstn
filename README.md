@@ -2,5 +2,5 @@
 - 🌎 **Living** in Spokane, WA
 - 💻 **Working** as a Software Engineer
 - 🙏 **Practicing** stoicism & secular buddhism
-- 🌱 **Learning** appsec & osint
+- 🎨 **Making** daily sketches/paintings
 - 📫 **Available via** 0xdstn@protonmail.com
