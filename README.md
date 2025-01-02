@@ -1,6 +1,4 @@
 - 👋 Hello friend. I’m **Dustin**. I'm... 
 - 🌎 **Living** in Spokane, WA
 - 💻 **Working** as a Software Engineer
-- 🙏 **Practicing** stoicism & secular buddhism
-- 🎨 **Making** daily sketches/paintings
 - 📫 **Available via** 0xdstn@protonmail.com
