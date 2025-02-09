@@ -1,4 +1,5 @@
 - 👋 Hello friend. I’m **Dustin**. I'm... 
 - 🌎 **Living** in Spokane, WA
 - 💻 **Working** as a Software Engineer
-- 📫 **Available via** 0xdstn@protonmail.com
+- 💻 **Studying** for a Bachelor's in Cybersecurity
+- 📫 **Available via** dustindikes@protonmail.com
